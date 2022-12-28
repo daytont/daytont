@@ -1,0 +1,4 @@
+- 👋 Hello, I’m @daytont (A.K.A - Dayton)
+- 🌱 I’m currently learning Python as my first programming language!
+- 👀 I'm always looking for new information and resources to help further my journey in programming.
+- 🫠I'd love to meet new friends in this field to see what we can make!
